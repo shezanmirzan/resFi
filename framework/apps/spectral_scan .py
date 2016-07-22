@@ -19,7 +19,7 @@
     {zehl, zubow, wolisz, doering}@tkn.tu-berlin.de
 """
 
-__author__ = 'S. Mirzan, A. Zubow, S. Zehl, A. Wolisz'
+__author__ = ' A. Zubow, S. Zehl, A. Wolisz, S. Mirzan,'
 
 import time
 from apscheduler.scheduler import Scheduler
