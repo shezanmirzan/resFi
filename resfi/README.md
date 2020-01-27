@@ -147,20 +147,8 @@ class ResFiApp(AbstractResFiApp):
 * Anatolij Zubow, TU-Berlin, zubow@tkn
 * Michael Döring, TU-Berlin, doering@tkn
 * tkn = tkn.tu-berlin.de
-* 
+* smirzan@umass.edu
 
 ## 10. How to reference ResFi
 Please use the following bibtex :
 
-```
-@inproceedings{Zehl16resfi,
-Title = {{ResFi: A Secure Framework for Self Organized Radio Resource Management in Residential WiFi Networks}},
-Author = {Zehl, Sven and Zubow, Anatolij and Wolisz, Adam and Döring, Michael},
-Booktitle = {{17th IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (IEEE WoWMoM 2016}},
-Year = {2016},
-Location = {Coimbra, Portugal},
-Month = {June},
-Note = {accepted for publication},
-Url = {http://www.tkn.tu-berlin.de/fileadmin/fg112/Papers/2016/zehl16resfi.pdf}
-}
-```
