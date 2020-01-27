@@ -149,6 +149,4 @@ class ResFiApp(AbstractResFiApp):
 * tkn = tkn.tu-berlin.de
 * smirzan@umass.edu
 
-## 10. How to reference ResFi
-Please use the following bibtex :
 
